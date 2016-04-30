@@ -1,8 +1,9 @@
 # AmazeFileManager [![Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)[![F-Droid](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Get_it_on_F-Droid.svg/130px-Get_it_on_F-Droid.svg.png)](https://f-droid.org/repository/browse/?fdid=com.amaze.filemanager)
 
-Amaze File Manager source code
+File Manager
+
 ###Overview:
-- Open Source, light and smooth
+- Light and Smooth
 - Based on Material Design guidelines
 - Basic features like cut, copy, delete, compress, extract etc. easily accessible
 - Work on multiple tabs at same time
@@ -23,15 +24,11 @@ This app is still in beta stage, hence, you might face some bugs, lack of featur
 
 ###[XDA](http://forum.xda-developers.com/android/apps-games/app-amaze-file-managermaterial-theme-t2937314)
 
-###Team :
-- Arpit Khurana
-- Vishal Nehra
-
 ###License: 
 
-    Copyright (C) 2014 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
-    This file is part of Amaze File Manager.
-    Amaze File Manager is free software: you can redistribute it and/or modify
+    Copyright (C) 2016 Ashish Dung Dung 
+    This project is a forked version of the Amaze File Manager.
+    File Manager is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
